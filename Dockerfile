@@ -9,4 +9,4 @@ COPY . .
 
 ENV GCS_BUCKET_NAME="bestie-storage"  
 
-CMD ["node", "server.js"]
+CMD ["node", "index.js"]
